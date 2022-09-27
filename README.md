@@ -9,4 +9,3 @@
 Ссылка на описание Api <a href='https://apidocs.abz.dev/test_assignment_for_frontend_developer_api_documentation#users_post'>тут</a>
 
 
-![Example](./media/example.mp4)
